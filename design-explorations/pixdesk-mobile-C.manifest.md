@@ -1,6 +1,6 @@
 # Implementation Manifest — PixDesk Mobile Variant C (3-Step Wizard)
 
-Reference: [pixdesk-mobile-C.reference.html](file:///Users/sander.hendriks/Downloads/LANZI%20TC002%20Pixbar/design-explorations/pixdesk-mobile-C.reference.html)
+Reference: [pixdesk-mobile-C.reference.html](./pixdesk-mobile-C.reference.html)
 
 | UI Element | Data Binding / Field | Class | Status / Count | Gap Resolution |
 | :--- | :--- | :--- | :--- | :--- |
